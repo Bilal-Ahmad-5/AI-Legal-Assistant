@@ -1,6 +1,6 @@
 AI Legal Assistant (Law Gpt)
 
-This project is an AI-powered legal assistant designed to answer user queries about US law, with the capability to incorporate information from uploaded documents.
+This project is an AI-powered legal assistant designed to answer user queries about law, with the capability to incorporate information from uploaded documents.
 
 Features
 
